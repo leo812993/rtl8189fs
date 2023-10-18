@@ -1,2 +1,1 @@
-/* SPDX-License-Identifier: GPL-2.0 */
-#define DRIVERVERSION	"v4.3.24.8_22657.20170607"
+#define DRIVERVERSION	"v5.11.6.0-2-gb9aa73b62.20211117"
